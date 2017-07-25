@@ -1,0 +1,16 @@
+
+p
+	{
+		color: #777777;
+	}
+img
+	{
+		float:left;
+		clear left;
+	}
+h1
+	{
+		border-style: solid;
+		border-color:teal;
+		background-color: teal;
+	}
